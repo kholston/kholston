@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ken Holston</h1>
 <h3 align="center">A passionate fullstack developer with a strong focus on frontend development</h3>
 
-- 🔭 I’m currently working on [Inventory Frontend](https://github.com/kholston/inventory-frontend)
+- 🔭 I’m currently working on an [Inventory Frontend](https://github.com/kholston/inventory-frontend)
 
 - 🌱 I’m currently learning **GraphQL and React Native**
 
