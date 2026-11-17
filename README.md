@@ -1,23 +1,84 @@
-<h1 align="center">Hi 👋, I'm Ken Holston</h1>
-<h3 align="center">A passionate fullstack developer with a strong focus on frontend development</h3>
 
-- 🔭 I’m currently working on an [Inventory Frontend](https://github.com/kholston/inventory-frontend)
+<h1 align="center">Ken Holston</h1>
+<h3 align="center">Full-Stack Software Engineer</h3>
 
-- 🌱 I’m currently learning **GraphQL and React Native**
-
-- 👨‍💻 All of my projects are available at [https://github.com/kholston](https://github.com/kholston)
-
-- 💬 Ask me about **React and Express**
-
-- 📫 How to reach me **hello@kenholston.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/h-ken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="h-ken" height="30" width="40" /></a>
+<p align="center">
+  Software engineer with 6 years of professional experience
+  building applications across enterprise and startup environments.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://kenholston.com">Portfolio</a> •
+  <a href="mailto:hello@kenholston.com">Email</a> •
+  <a href="https://github.com/kholston?tab=repositories">Repositories</a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kholston&show_icons=true&locale=en&layout=compact" alt="kholston" /></p>
+---
+
+### About Me
+
+I'm a full-stack software engineer specializing in
+TypeScript, JavaScript, React, and Node.js.
+
+My professional experience includes developing interactive
+frontend applications, building backend APIs, integrating
+cloud services, and working with relational and NoSQL databases.
+
+I've worked in both enterprise and startup environments,
+contributing to application development, automated testing,
+CI/CD workflows, and application monitoring.
+
+Outside of professional development, I enjoy exploring
+new technologies and building personal projects.
+
+### Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,php" alt="Languages" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,sass,tailwind,bootstrap" alt="Frontend technologies" />
+</p>
+
+**Backend & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mysql,mongodb" alt="Backend and databases" />
+</p>
+
+**Tools & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,linux,postman,webpack,jest" alt="Development tools" />
+</p>
+
+**Testing & Quality**
+
+- Jest and React Testing Library
+- Cypress and Playwright
+- End-to-end and integration testing
+- CI/CD and application monitoring
+
+### Personal Projects
+
+I'm currently developing new personal projects and
+exploring technologies outside of my professional work.
+
+New projects will be featured here as they become ready.
+
+[Browse my repositories](https://github.com/kholston?tab=repositories)
+
+### Connect
+
+- **Portfolio:** [kenholston.com](https://kenholston.com)
+- **Email:** [hello@kenholston.com](mailto:hello@kenholston.com)
+- **LeetCode:** [h-ken](https://leetcode.com/h-ken)
+
+---
+
 
